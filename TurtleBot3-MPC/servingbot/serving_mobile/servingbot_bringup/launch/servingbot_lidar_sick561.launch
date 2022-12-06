@@ -1,6 +1,0 @@
-<launch>
-  <include file="$(find sick_tim)/launch/sick_tim551_2050001.launch" />
-
- 
-
-</launch>
